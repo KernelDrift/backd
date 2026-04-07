@@ -105,3 +105,10 @@ Downloads/
 *.bak
 *.old
 *.backup
+
+# =========================
+# SIB ERRORS
+# =========================
+**/.lesshst
+**/.bash_history
+**/osp2_root/**
