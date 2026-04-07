@@ -1,0 +1,4 @@
+home/klaus/PASS.kdbx
+data/./backup
+data/./Dokumente
+data/./Projekte

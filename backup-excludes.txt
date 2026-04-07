@@ -1,0 +1,107 @@
+# =========================
+# SYSTEM / CACHE
+# =========================
+.cache/
+.local/share/Trash/
+.tmp/
+temp/
+tmp/
+*.tmp
+*.temp
+
+# =========================
+# LOGS
+# =========================
+logs/
+*.log
+*.log.*
+log/
+
+# =========================
+# DEV / PROGRAMMING
+# =========================
+node_modules/
+dist/
+build/
+out/
+target/
+bin/
+obj/
+.gradle/
+.mvn/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+env/
+
+# JavaScript / Frontend
+.npm/
+.yarn/
+.pnpm-store/
+
+# =========================
+# VCS
+# =========================
+.git/
+.gitignore
+.gitattributes
+
+# =========================
+# OS / EDITOR JUNK
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+*~
+
+# VS Code / IDE
+.vscode/
+.idea/
+
+# =========================
+# DOWNLOADS / TEMP USER DATA
+# =========================
+Downloads/
+*.iso
+*.img
+*.zip
+*.tar
+*.gz
+*.7z
+
+# =========================
+# BROWSERS
+# =========================
+.mozilla/firefox/*/cache2/
+.mozilla/firefox/*/storage/default/
+.google-chrome/Default/Cache/
+.google-chrome/Default/Code Cache/
+.chromium/Default/Cache/
+
+# =========================
+# DOCKER / CONTAINERS
+# =========================
+/var/lib/docker/
+/var/lib/containers/
+
+# =========================
+# VM / HEAVY FILES (optional)
+# =========================
+*.vdi
+*.vmdk
+*.qcow2
+
+# =========================
+# MISC
+# =========================
+*.bak
+*.old
+*.backup
