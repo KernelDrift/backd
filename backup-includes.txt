@@ -1,4 +1,8 @@
 home/klaus/PASS.kdbx
-data/./backup
-data/./Dokumente
-data/./Projekte
+home/klaus/./.ssh
+home/klaus/./.gnupg
+home/klaus/./.gitconfig
+etc/./nixos
+home/klaus/Documents/./backup
+home/klaus/Documents/./Dokumente
+home/klaus/Documents/./Projekte
