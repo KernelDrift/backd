@@ -1,5 +1,5 @@
 #!/run/current-system/sw/bin/bash
-set -euo pipefail
+set -uo pipefail
 
 #SOURCE="/home/$USER"
 TARGET="echo2:~/data/backup/current"
